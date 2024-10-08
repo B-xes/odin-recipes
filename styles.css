@@ -1,0 +1,56 @@
+body{
+    background-color: lightcoral;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding: 25px;
+}
+.head1{
+    background-color: lightgrey;
+    color: black;
+    border: 8px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    margin-top: 25px;
+    
+}
+.reclink1{
+    padding: 5px;
+    margin: 25px;
+}
+
+.reclink2{
+    padding: 5px;
+    margin: 25px;
+}
+
+.reclink3{
+    padding: 5px;
+    margin: 25px;
+}
+
+.prep{
+    font-size: 20px;
+    color: white;
+    background-color: lightpink;
+    
+    
+      }
+.sbslist,
+.ingredlist1{
+    background-color: lightpink;
+    color: white;
+    li{
+        line-height: 1.5;
+        font-size: 20px;
+    }
+}
+
+.recipetitle{
+    color:white;
+    background-color: lightpink;
+}
+
+
+
+    
